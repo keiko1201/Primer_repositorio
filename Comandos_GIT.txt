@@ -1,4 +1,4 @@
-Comandos básicos
+COMANDOS BÁSICOS
 git init
 git config --global user.name "keiko1201"
 git config --global user.email keikocubillos@gmail.com
