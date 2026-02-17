@@ -1,0 +1,11 @@
+Comandos básicos
+git init
+git config --global user.name "keiko1201"
+git config --global user.email keikocubillos@gmail.com
+git config user.name
+git config user.email
+clear
+git status 
+git add .
+git commit -m "Listo para subir"
+git commit -m "segundo commit"
