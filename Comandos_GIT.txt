@@ -9,3 +9,5 @@ git status
 git add .
 git commit -m "Listo para subir"
 git commit -m "segundo commit"
+git remote add origin https://github.com/keiko1201/Primer_repositorio.git
+git push -u origin master
